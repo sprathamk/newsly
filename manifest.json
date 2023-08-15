@@ -1,0 +1,20 @@
+{
+    "manifest_version" : 3,
+    "name" : "Newsly",
+    "version" : "1.0.0",
+    "description" : "A chrome extension which shows latest news",
+    "action" : {
+        "default_popup" : "popup.html",
+        "default_title" : "Newsly",
+         "default_icon": {
+            "16": "images/logo.png",
+            "48": "images/logo.png",
+            "128": "images/logo.png"
+          }
+        },
+    "icons": {
+        "16": "images/logo.png",
+        "48": "images/logo.png",
+        "128": "images/logo.png"
+    }
+}

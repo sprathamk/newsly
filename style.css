@@ -1,0 +1,8 @@
+body{
+    min-width: 400px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#header{
+    text-align: center;
+}
